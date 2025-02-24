@@ -1,7 +1,4 @@
-<div align= "center">
-    ![Image](https://github.com/user-attachments/assets/9b02903a-fbce-4efd-a486-a09feb49c822)
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 팀과의 협업을 통해 더 나은 서비스를 만들어가는 개발자입니다.</li> </div> 
-    </div>
+![Image](https://github.com/user-attachments/assets/bd30fb52-d7fc-49c7-a6d6-b7fa270b58f0)
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
