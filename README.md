@@ -27,8 +27,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS&rpar; 객체지향 설계 원칙과 OOAD](https://tmddnr3503.tistory.com/101)
 - [CS&rpar; 응집도 &lpar; Cohesion &rpar;](https://tmddnr3503.tistory.com/100)
 - [CS&rpar; 데이터베이스 관계대수, 관계 함수, 정규화](https://tmddnr3503.tistory.com/99)
 - [CS&rpar; 정처기 대비 요약 정리](https://tmddnr3503.tistory.com/98)
-- [CS&rpar; 소프트웨어 프로젝트 관리에서 3P와 애자일에서의 적용](https://tmddnr3503.tistory.com/97)
 <!-- BLOG-POST-LIST:END -->
