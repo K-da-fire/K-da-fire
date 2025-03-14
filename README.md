@@ -27,8 +27,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS&rpar; OOAD와 UML 개발 방식](https://tmddnr3503.tistory.com/111)
 - [CS&rpar; CASE, 럼바우 기법, 요구사항 모델링](https://tmddnr3503.tistory.com/102)
 - [CS&rpar; 객체지향 설계 원칙과 OOAD](https://tmddnr3503.tistory.com/101)
 - [CS&rpar; 응집도 &lpar; Cohesion &rpar;](https://tmddnr3503.tistory.com/100)
-- [CS&rpar; 데이터베이스 관계대수, 관계 함수, 정규화](https://tmddnr3503.tistory.com/99)
 <!-- BLOG-POST-LIST:END -->
